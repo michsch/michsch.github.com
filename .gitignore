@@ -1,1 +1,8 @@
-assets/.sass-cache/
+# ignore system files
+*DS_Store
+*Thumbs.db
+
+# ignore node packages and sass cache
+*.sass-cache
+*node_modules
+
